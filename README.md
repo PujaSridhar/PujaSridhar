@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **Master's student in Computer Science at Rutgers University** (3.8 GPA) with a passion for the intersection of **data engineering, AI, and cloud computing**. I believe in building clean, reproducible, and scalable solutions — not just models that work, but **systems that last**.
+I'm a **Master's student in Computer Science at Rutgers University** with a passion for the intersection of **data engineering, AI, and cloud computing**. I believe in building clean, reproducible, and scalable solutions not just models that work, but **systems that last**.
 
 ```python
 class PujaSridhar:
@@ -42,13 +42,13 @@ class PujaSridhar:
 
 ## Current Focus
 
-**Personalized Wellness Engine** – Crafting synergistic nutrition and fitness plans using ML and knowledge graphs. Leveraging Python, ML models, graph databases, and LLMs to create intelligent health recommendations.
+**Personalized Wellness Engine**: Crafting synergistic nutrition and fitness plans using ML and knowledge graphs. Leveraging Python, ML models, graph databases, and LLMs to create intelligent health recommendations.
 
-**Serverless Data Applications** – Building real-time data apps with AWS Lambda, DynamoDB, and Kendra. Using CloudFormation for infrastructure as code to deploy scalable serverless architectures.
+**Serverless Data Applications**: Building real-time data apps with AWS Lambda, DynamoDB, and Kendra. Using CloudFormation for infrastructure as code to deploy scalable serverless architectures.
 
-**Modern Data Lakehouse** – Exploring Apache Spark, Apache Iceberg, and MinIO for hybrid analytics architecture. Implementing modern data lakehouse patterns for efficient data management and analytics.
+**Modern Data Lakehouse**: Exploring Apache Spark, Apache Iceberg, and MinIO for hybrid analytics architecture. Implementing modern data lakehouse patterns for efficient data management and analytics.
 
-**ML Research Projects** – Developing models for fraud detection, computer vision, and multilingual misinformation detection. Using TensorFlow, PyTorch, and Transformers to build robust AI systems.
+**ML Research Projects**: Developing models for fraud detection, computer vision, and multilingual misinformation detection. Using TensorFlow, PyTorch, and Transformers to build robust AI systems.
 
 ---
 
