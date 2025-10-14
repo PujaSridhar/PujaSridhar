@@ -126,7 +126,7 @@ certifications:
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| [**Smart Document Finder**](https://github.com/PujaSridhar/smart-document-finder) | Intelligent semantic search using vector databases & LLMs for natural language document retrieval | Vector DBs, LLMs, RAG, Python |
+| [**Smart Document Finder**](https://github.com/krshsl/smart-doc-finder) | Intelligent semantic search using vector databases & LLMs for natural language document retrieval | Vector DBs, LLMs, RAG, Python |
 | [**Multilingual Health Misinformation Detection**](https://github.com/PujaSridhar/multilingual-misinformation) | Transformer-based NLP model identifying health misinformation across multiple languages | Transformers, NLP, PyTorch, BERT |
 | [**ML Profit Prediction Pipeline**](https://github.com/PujaSridhar/ml-profit-prediction) | End-to-end ML pipeline achieving 96.04% accuracy with interactive Tableau dashboards | Random Forest, Tableau, Python, scikit-learn |
 
