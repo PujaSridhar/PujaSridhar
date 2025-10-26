@@ -10,9 +10,10 @@
 
 ### Building scalable data systems & intelligent ML pipelines
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge)](https://PujaSridhar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujasridhar/)
-[![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pujasridhar28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://PujaSridhar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujasridhar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pujasridhar28@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XrZ5vb9nad2WnyswQOYPBe3D7speSn6T/view)
 
 </div>
 
@@ -57,32 +58,74 @@ class PujaSridhar:
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python"/><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/><br>AWS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="65" height="65" alt="R"/><br>R
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/><br>Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="65" height="65" alt="MATLAB"/><br>MATLAB
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="48" height="48" alt="Spark"/><br>Spark
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="SQL"/><br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" width="48" height="48" alt="Snowflake"/><br>Snowflake
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/><br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br>TensorFlow
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/><br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65" alt="AWS"/><br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br>PyTorch
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65" height="65" alt="Docker"/><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="65" height="65" alt="TensorFlow"/><br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="65" height="65" alt="PyTorch"/><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" height="65" alt="Tableau"/><br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="65" height="65" alt="OpenAI"/><br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="65" height="65" alt="Databricks"/><br>Databricks
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="65" height="65" alt="Spark"/><br>Spark
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/60414830?s=200&v=4" width="65" height="65" alt="Iceberg"/><br>Iceberg
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" width="65" height="65" alt="Snowflake"/><br>Snowflake
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="65" height="65" alt="MinIO"/><br>MinIO
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/><br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65" alt="Git"/><br>Git
     </td>
   </tr>
 </table>
-
 ---
 
 
@@ -140,9 +183,20 @@ I'm always excited to discuss **data engineering**, **AI systems**, **MLOps**, o
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4B5563?style=for-the-badge)](https://PujaSridhar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-374151?style=for-the-badge)](https://www.linkedin.com/in/pujasridhar/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-1F2937?style=for-the-badge)](mailto:pujasridhar28@gmail.com)
+<p align="center">
+  <a href="https://PujaSridhar.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-4B5563?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pujasridhar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pujasridhar28@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-4B5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1XrZ5vb9nad2WnyswQOYPBe3D7speSn6T/view">
+    <img src="https://img.shields.io/badge/RESUME-VIEW_PDF-4B5563?style=for-the-badge" alt="Resume"/>
+  </a>
+</p>
 
 <br>
 
